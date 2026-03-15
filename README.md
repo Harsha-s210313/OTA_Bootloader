@@ -258,7 +258,7 @@ STM32 → ESP8266 : 0xCC  (NACK — packet rejected, retransmit)
 
 ## 12. Future Improvements
 
-- Add ECDSA signature verification in `boot_verify.c` using embedded public key
+- Add firmware version checking to prevent downgrade attacks
 - Implement firmware version checking to prevent downgrade attacks
 - Add CRC32 per-packet verification for additional transfer integrity
 - Encrypt firmware in transit using AES-128
