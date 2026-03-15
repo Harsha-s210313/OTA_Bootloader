@@ -1,5 +1,0 @@
-../Src/uart_if.c:12:6:uart_init	16	static
-../Src/uart_if.c:39:6:uart_tx_byte	16	static
-../Src/uart_if.c:43:9:uart_rx_byte	4	static
-../Src/uart_if.c:47:6:uart_tx_buffer	24	static
-../Src/uart_if.c:52:6:uart_rx_buffer	32	static

@@ -1,2 +1,0 @@
-../Src/flash_if.c:4:6:flash_erase	16	static
-../Src/flash_if.c:20:6:flash_write	32	static

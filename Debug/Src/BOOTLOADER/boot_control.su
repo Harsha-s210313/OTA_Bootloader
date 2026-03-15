@@ -1,2 +1,0 @@
-../Src/BOOTLOADER/boot_control.c:6:6:check_ota	16	static
-../Src/BOOTLOADER/boot_control.c:14:6:control_flow	8	static
